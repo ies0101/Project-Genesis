@@ -1,0 +1,4 @@
+NAME = "Kang"
+VERSION = "0.5"
+CREATOR = "Eren"
+BIRTH_DATE = "14.07.2026"
